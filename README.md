@@ -4,23 +4,22 @@
 ### Template
 
 ```markdown
-# Explicando Nutri;áo para criancas
+# Explicando Nutrição para crianças
 
 ## 📒 Descrição
-Uma apresentacao ludica pra criancas de ate 12 anos, sobre a importancia da nutricao e boa alimentacao
+Uma apresentação lúdica pra crianças de até 12 anos, sobre a importância da nutrição e boa alimentação.
 
 ## 🤖 Tecnologias Utilizadas
 Gamma.app
 
 ## 🧐 Processo de Criação
-utilizei o Gamma para criacao do conteudo, layout e imagens
+utilizei o Gamma para criação do conteúdo, layout e imagens.
 
 ## 🚀 Resultados
-A apresenta;áo possui visual ludico que chama aten;ao das criancas para o tema
+A apresentação possui visual lúdico que chama atenção das crianças para o tema.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Há de se verificar se o conteúdo está adequado ao proposto.
 
 ### Exemplos e Insigths
 
